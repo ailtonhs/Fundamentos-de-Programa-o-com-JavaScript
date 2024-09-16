@@ -1,2 +1,2 @@
-# Fundamentos-de-Programa-o-com-JavaScript
+# Fundamentos de Programação com JavaScript
 Curso de fundamentos de programação com JavaScript
